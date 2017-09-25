@@ -1,0 +1,6 @@
+framework module Pods_MFSIdentifyDemo {
+  umbrella header "Pods-MFSIdentifyDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}

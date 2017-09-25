@@ -1,0 +1,18 @@
+PODS:
+  - MFSCache (2.0.1):
+    - MFSJSONEntity
+  - MFSIdentifier (1.0.1):
+    - MFSCache
+  - MFSJSONEntity (1.0.6)
+
+DEPENDENCIES:
+  - MFSIdentifier
+
+SPEC CHECKSUMS:
+  MFSCache: 76baaca48f2283669709771967caedb8d0edb4c7
+  MFSIdentifier: 462e3db953e97eaf00ddd58e9b15fbfc0c310300
+  MFSJSONEntity: 87c9404c87cb499de26b061f3c985eb7808bef73
+
+PODFILE CHECKSUM: 909b7107500c18cee115882be8882ad5cb9957ad
+
+COCOAPODS: 1.2.1
